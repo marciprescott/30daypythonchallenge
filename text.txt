@@ -1,0 +1,9 @@
+Time complexity:  O(n), where n is the number of characters in the file. The code reads the file line by line and performs operations on each line, so the time complexity grows linearly with the size of the file.
+Space complexity: O(1), as the code only uses a constant amount of memory to store the count variables, regardless of the size of the file.
+
+
+"This course is very well structured and easy to learn. Anyone with zero experience of data science, python or ML can learn from this. This course makes things so easy that anybody can learn on their own. It's helping me a lot. Thanks for creating such a great course."-  Ayushi Jain | Placed at Microsoft
+
+Now's your chance to unlock high-earning job opportunities as a Data Scientist! Join our Complete Machine Learning & Data Science Program and get a 360-degree learning experience mentored by industry experts.
+
+Get hands on practice with 40+ Industry Projects, regular doubt solving sessions, and much more. Register for the Program today!
